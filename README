@@ -1,12 +1,12 @@
 bom-thread
 ==========
 
-字 letter, character, word
-節 knot, node, joint; section
-順 obey, submit to, go along with
-序 series, serial order, sequence
+5 B 5 7    字 letter, character, word
+7 B C 0    節 knot, node, joint; section
+9 8 0 6    順 obey, submit to, go along with
+5 E 8 F    序 series, serial order, sequence
 
-標 a mark, symbol, label, sign; standard
-記 record; keep in mind, remember
-線 thread, line, wire; clue
-索 large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated
+6 A 1 9    標 a mark, symbol, label, sign; standard
+8 A 1 8    記 record; keep in mind, remember
+7 D D A    線 thread, line, wire; clue
+7 D 2 2    索 large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated
